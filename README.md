@@ -1,0 +1,2 @@
+# littlePython
+python learning code
